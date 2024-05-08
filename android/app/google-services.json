@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176989783430",
+    "project_id": "kt-gk-f5022",
+    "storage_bucket": "kt-gk-f5022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176989783430:android:a4d391ab261da53ccd9807",
+        "android_client_info": {
+          "package_name": "com.loginhomeregister"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRSFLFd5R3dKjIysTbAlgWewx4HYP13hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
